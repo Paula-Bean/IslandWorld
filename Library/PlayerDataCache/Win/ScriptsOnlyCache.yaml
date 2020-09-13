@@ -1,0 +1,58 @@
+ScriptsOnlyBuild:
+  usedScripts:
+    Assembly-CSharp-Editor.dll:
+    - PolyToolkitEditor.AssetBrowserWindow
+    Assembly-CSharp.dll:
+    - PolyToolkitInternal.AsyncImporter
+    - PolyToolkitInternal.Authenticator
+    - PolyToolkitInternal.PolyMainInternal
+    - PolyToolkitInternal.PtSettings
+    - PolyToolkitInternal.api_clients.poly_client.PolyClient
+    - PolyToolkitInternal.caching.PersistentBlobCache
+    - PolyToolkitInternal.client.model.util.WebRequestManager
+    - PolyToolkitInternal.entitlement.OAuth2Identity
+    - PolyToolkitInternal.model.util.BackgroundMain
+    - TiltBrushToolkit.BrushDescriptor
+    - TiltBrushToolkit.BrushManifest
+    Unity.EditorCoroutines.Editor.dll:
+    - AltspaceBuildWindow
+    - UserPreferences
+    Unity.Rider.Editor.dll:
+    - Packages.Rider.Editor.UnitTesting.CallbackData
+    UnityEditor.TestRunner.dll:
+    - UnityEditor.TestTools.TestRunner.Api.CallbacksHolder
+    - UnityEditor.TestTools.TestRunner.TestListCacheData
+    - UnityEditor.TestTools.TestRunner.TestRun.TestJobDataHolder
+  sceneClasses:
+    Assets/Altspace/Export/template.unity:
+    - Class: 1
+      Script: {instanceID: 0}
+    - Class: 4
+      Script: {instanceID: 0}
+    - Class: 21
+      Script: {instanceID: 0}
+    - Class: 23
+      Script: {instanceID: 0}
+    - Class: 28
+      Script: {instanceID: 0}
+    - Class: 33
+      Script: {instanceID: 0}
+    - Class: 43
+      Script: {instanceID: 0}
+    - Class: 48
+      Script: {instanceID: 0}
+    - Class: 65
+      Script: {instanceID: 0}
+    - Class: 104
+      Script: {instanceID: 0}
+    - Class: 108
+      Script: {instanceID: 0}
+    - Class: 157
+      Script: {instanceID: 0}
+    - Class: 196
+      Script: {instanceID: 0}
+  scriptHashData: []
+  platform: 5
+  scenePathNames:
+  - Assets/Altspace/Export/template.unity
+  playerPath: C:/Prj/Unity/FirstWorld/AltspaceTemp/AssetBundles/template.unity2018_1
